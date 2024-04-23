@@ -1,0 +1,30 @@
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.csproj.AssemblyReference.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.AssemblyInfoInputs.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.AssemblyInfo.cs
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.csproj.CoreCompileInputs.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.exe
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.deps.json
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.runtimeconfig.json
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.dll
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.pdb
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.dll
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\refint\Ejercicio Task.dll
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.pdb
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.genruntimeconfig.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\ref\Ejercicio Task.dll
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.exe
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.deps.json
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.runtimeconfig.json
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.dll
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.pdb
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.csproj.AssemblyReference.cache
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.AssemblyInfoInputs.cache
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.AssemblyInfo.cs
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.csproj.CoreCompileInputs.cache
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.dll
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\refint\Ejercicio Task.dll
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.pdb
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.genruntimeconfig.cache
+C:\Users\PC 004\Downloads\Task_Ejercicio-main\Task_Ejercicio-main\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\ref\Ejercicio Task.dll
